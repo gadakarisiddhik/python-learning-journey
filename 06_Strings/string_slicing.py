@@ -1,5 +1,5 @@
 """
-Topic: #o/p:pl
+Topic: String Slicing
 Author: Siddik Imran Gadkari
 Date: 19 July 2026
 
