@@ -16,4 +16,3 @@ marks = ["Siddik",88,"Samarth",92,"Shubham",70,"Aditya","Shreyash",17] #indexing
 print(marks[3],"Before Updating") #o/p:Samarth
 marks[3]="Jack"  #change value using indexing 
 print(marks[3],"After Updating") #o/p:Jack
-
