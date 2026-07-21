@@ -61,3 +61,31 @@
 
 # tuple = ("C","D","A","A","B","B","A")
 # print(tuple.count("A"))
+
+# dic = {
+#     "table" : ["A piece of furniture","List of facts and figures"],
+#     "Cat" : "A small animal"
+# }
+# print(dic)
+
+# subject = {"Python","Java","C++","Python","JavaScript","Java","Python","Java","C++","C"}
+# print(subject)
+# print("Total Class Rooms:",len(subject))
+
+# info = {}
+
+# s = input("Enter Subject Name: ")
+# m = int(input("Enter Subject Marks: "))
+# info.update({s:m})
+
+# s = input("Enter Subject Name: ")
+# m = int(input("Enter Subject Marks: "))
+# info.update({s:m})
+
+# s = input("Enter Subject Name: ")
+# m = int(input("Enter Subject Marks: "))
+# info.update({s:m})
+# print(info)
+
+# set = {9, 9.0}
+# print(set)
