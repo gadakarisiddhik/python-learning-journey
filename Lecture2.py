@@ -36,3 +36,28 @@
 #     print(n,"is multiple of 7")
 # else:
 #     print(n,"is not multiple of 7")
+
+# movies = [] 
+
+# m1 = input("enter fev movie: ")
+# m2 = input("enter fev movie: ")
+# m3 = input("enter fev movie: ")
+
+# movies.append(m1)
+# movies.append(m2)
+# movies.append(m3)
+
+# print("Your Fev Movies are: ",movies)
+
+# list = [1,2,3,4,3,2,1]
+
+# copy  = list.copy()
+# copy.reverse()
+# print("OG List:",list)
+# if (copy == list):
+#     print("it is a Palindrome",copy)
+# else:
+#     print("it is not palindrome!",copy)
+
+# tuple = ("C","D","A","A","B","B","A")
+# print(tuple.count("A"))
