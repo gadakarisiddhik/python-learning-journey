@@ -17,7 +17,7 @@ list.append(7)
 print(list) #o/p: [1,2,3,4,5,6,7]
 
 #Sort
-list = [88,72,45,0,3,14,788,1,65]
+list = [88,72,45,0,3,14,788,1,65,]
 
 list.sort() #Sort list by ascending order
 print(list) #o/p: [0, 1, 3, 14, 45, 65, 72, 88, 788]
